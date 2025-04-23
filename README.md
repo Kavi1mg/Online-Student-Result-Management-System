@@ -47,11 +47,15 @@ A responsive and efficient web application for managing student academic records
 
 ## 📷 Screenshots
 
-> Include screenshots of:
-> - Admin Login Page
-> - Dashboard
-> - Student Marks Entry
-> - Results Table
+![image](https://github.com/user-attachments/assets/ad0d4e49-8fc2-4370-97bb-ea6ac6a0465c)
+![image](https://github.com/user-attachments/assets/7f66be19-b4b3-4374-8ae3-188406ecdc40)
+![image](https://github.com/user-attachments/assets/94a231cc-fdc9-4ac1-a6e9-5bbc5ba16f3b)
+![image](https://github.com/user-attachments/assets/5b08e33b-7357-47cc-b6e7-3d61d783db9d)
+![image](https://github.com/user-attachments/assets/e7c5dc98-3450-4e53-aa4b-709e34c41f51)
+
+
+
+
 
 ---
 
